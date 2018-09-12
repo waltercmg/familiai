@@ -16,7 +16,7 @@
 
         <style>
         #overlay {
-            background-color: #EEEEEE;
+            background-color: #EEFEEE;
             position: relative;
             top: 30;
             left: 0;
